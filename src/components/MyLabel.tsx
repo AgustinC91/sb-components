@@ -1,6 +1,6 @@
 import './myLabel.css';
 
-interface MyLabelProps {
+export interface MyLabelProps {
    /**
    * Este es el mensaje a mostrar en la etiqueta
    */
